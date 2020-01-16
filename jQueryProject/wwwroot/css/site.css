@@ -92,3 +92,7 @@ body {
 .maintext {
     color:aliceblue;
 }
+
+.display-4 {
+    font-family: 'Spectral', serif;
+}

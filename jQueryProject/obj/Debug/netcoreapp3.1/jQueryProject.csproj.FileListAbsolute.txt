@@ -107,4 +107,4 @@ C:\Users\admin\source\repos\jQueryProject\jQueryProject\bin\Debug\netcoreapp3.1\
 C:\Users\admin\source\repos\jQueryProject\jQueryProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\admin\source\repos\jQueryProject\jQueryProject\obj\Debug\netcoreapp3.1\jQueryProject.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\admin\source\repos\jQueryProject\jQueryProject\obj\Debug\netcoreapp3.1\Razor\Pages\About.cshtml.g.cs
-C:\Users\admin\source\repos\jQueryProject\jQueryProject\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\admin\source\repos\jQueryProject\jQueryProject\obj\Debug\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
