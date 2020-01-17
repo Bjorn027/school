@@ -96,3 +96,8 @@ body {
 .display-4 {
     font-family: 'Spectral', serif;
 }
+
+#randomness {
+    transition: all 2s;
+}
+
