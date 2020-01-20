@@ -58,14 +58,17 @@ function doLogin() {
 }
 
 function randColor () {
-    var font = ["Impact", "Times New Roman", "Trebuchet MS", "Rockwell Nova", "Comic Sans MS", ];
+    var font = ["Impact", "Times New Roman", "Trebuchet MS", "Rockwell Nova", "Comic Sans MS"];
     var rand = font[Math.floor(Math.random() * font.length)];
     $('#randomness').css('font-family', rand);
+    //Randomizes font style
     var size = [10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50];
     var rand2 = size[Math.floor(Math.random() * size.length)];
     $('#randomness').css('font-size', rand2);
+    //Randomizes font size
     var color = ["red", "blue", "gray", "white", "black", "yellow", "green", "pink", "purple", "orange"];
     var rand3 = color[Math.floor(Math.random() * color.length)];
     $('#randomness').css('color', rand3);
-    //$('#randomness').animate({opacity: 0.25})
+    //Randomizes font color
 }
+
